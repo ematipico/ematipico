@@ -8,8 +8,8 @@ I am Emanuele and I work on open source. Below, the projects where I contribute 
 
   <a href="https://github.com/withastro/astro" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://astro.build/assets/press/astro-icon-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://astro.build/assets/press/astro-icon-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://astro.build/assets/press/astro-icon-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://astro.build/assets/press/astro-icon-dark.png">
     <img alt="Astro" src="https://astro.build/assets/press/astro-icon-light.png" width="80">
   </picture>
   </a>
