@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ematipico/ematipico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>Projects</h2>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/withastro/astro" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://astro.build/assets/press/astro-icon-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://astro.build/assets/press/astro-icon-light.png">
+    <img alt="Astro" src="https://astro.build/assets/press/astro-icon-light.png" width="80">
+  </picture>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/biomejs/biome" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biomejs/resources/refs/heads/main/png/icon-border-dark-transparent-x4.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biomejs/resources/refs/heads/main/png/icon-border-light-transparent-x4.png">
+    <img alt="Biome - Toolchain of the web" src="https://raw.githubusercontent.com/biomejs/resources/refs/heads/main/png/icon-border-light-transparent-x4.png" width="80">
+  </picture>
+  </a>
+</div>
