@@ -1,3 +1,7 @@
+👋 Hi!
+
+I am Emanuele and I work on open source. Below, the projects where I contribute most:
+
 <div align="center">
 
   <h2>Projects</h2>
